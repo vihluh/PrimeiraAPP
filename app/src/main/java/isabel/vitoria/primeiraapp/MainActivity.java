@@ -28,6 +28,8 @@ public class MainActivity extends AppCompatActivity { //classe que representa o 
                 i.putExtra("texto", textoDigitado); //chave e valor associado a chave
 
                 startActivity(i); //executa a intenção declarada acima
+
+                //aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
             }
         });
     }
